@@ -86,6 +86,8 @@ header a:hover{
 #showcase {
     min-height: 400px;
     background-image: url("C:/Users/User/Desktop/WebDev/img/showcase.jpg");
+    background-repeat: no-repeat;
+    background-position: 0, -400px;
     text-align: center;
     color: #ffffff;
   }
