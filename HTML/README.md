@@ -1,4 +1,4 @@
-Projects with only using HTML.
+Projects with only using HTML and little CSS.
 
 First project preview (H1.html):
 
