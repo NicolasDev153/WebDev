@@ -141,7 +141,7 @@ img{
         box-shadow: 0 1px 4px rgba(0, 0, 0,.1);
         border-radius: 1rem 1rem 0 0;
         z-index: var(--z-fixed);
-        transition: .3;
+        transition: .3s;
     }
 }
 
@@ -182,4 +182,9 @@ img{
 .nav__icon{
     font-size: 1.2rem;
     margin-bottom: var(--mb-1);
+}
+
+/* show menu */
+.show_menu{
+    bottom: var(--header-height);
 }
