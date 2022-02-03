@@ -451,8 +451,9 @@ img{
       background-color: var(--container-color-alt);
     }
   
-    .resume__left,
-    .resume__right{
+    .resume__left
+    .resume__right
+    {
       padding: 0 1.5rem;
     }
   
@@ -543,7 +544,7 @@ body.dark-theme{
 }
 
 .scale-cv .resume_left,
-.scale-cv .resume_right{
+.scale-cv .resume__right{
   padding: 0 1rem;
 }
 
